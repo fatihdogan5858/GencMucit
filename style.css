@@ -213,25 +213,7 @@ padding-left:10px;
 }
 
 
-/* 
 
-.btnDevam:link {
-  display: block;
-  width: 150px;
-  height: 45px;
-  padding: 5px 5px;
-  background-color: #0071ce;
-  color: white;
-  text-decoration: none;
-  margin: 95px;
-  border-radius: 10px;
-  opacity: 0.1;
-}
-
-
-.btnDevam:hover {
-  opacity: 1.4;
-} */
 
 footer {
 
@@ -424,28 +406,8 @@ h2 {
   font-size: 16px;
 }
 
-/*buradan aşağısı diğer deneme sayfaları */
 
 
-
-/*.icerik123 {
-  float: left;
-  height: auto;
-  width: 17%; /* SAYFADA KAÇ RESİM ÇIKACAK*/
-  height: 450px;
-  /* display: inline-block; */
-  margin-right: 5px;
-  margin-left: 35px;
-  border-radius: 10px;
-  box-shadow: 0 2px 8px 2px rgba(20, 23, 28, 0.15);
-  margin-bottom: 15px;
-}
-
-*/
-/*
-kaldığım yer
-
-https://www.youtube.com/watch?v=E7CCZE22zuI&list=PL3AsBN9JULajo7Vfq1haOdgwkGkT0UkuF&index=8*/
 
  .card {
   width: 100%;
